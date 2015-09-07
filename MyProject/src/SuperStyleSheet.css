@@ -1,0 +1,13 @@
+.root {
+    -fx-font-size: 30px;
+}
+#bigButton {
+    -fx-font-size: 40px;
+    -fx-font-style: italic;
+}
+
+.bigButtons{
+    -fx-font-size: 40px;
+    -fx-font-style: italic;
+
+}
